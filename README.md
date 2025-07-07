@@ -1,6 +1,6 @@
 # Topic Model Labelling with LLMs
-Python codes for **Topic Model Labelling with LLMse**, 7.7. 2025. *submitted to Towards Data Science*. 
-Article is [here (TBA).]()
+Python codes for **Topic Model Labelling with LLMs**, 7.7. 2025. *submitted to Towards Data Science*. 
+Article is [here (TBA)]().
 
 </br>
 
