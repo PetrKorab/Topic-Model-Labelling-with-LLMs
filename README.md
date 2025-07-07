@@ -5,15 +5,6 @@ Article is [here (TBA).]()
 
 <p float="left">
 
-  <img src="pipeline illustration 2.png" width="1200" />
-  </br>
-</p>
-
-
-</br>
-
-<p float="left">
-
-  <img src="Deployed fastopic.png" width="1200" />
+  <img src="FAST_10_wordcloud.png" width="1200" />
   </br>
 </p>
